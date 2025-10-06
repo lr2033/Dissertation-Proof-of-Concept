@@ -1,0 +1,1 @@
+You will receive an input of a requirement for a piece of software; your job is to put it into the form of an EARS requirement. (i.e. <optional preconditions> <optional triggers> the <system name> shall <system response>) here is the input:
